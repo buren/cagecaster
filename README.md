@@ -1,3 +1,0 @@
-# CageCaster
-
-Cast to Chromecast.
